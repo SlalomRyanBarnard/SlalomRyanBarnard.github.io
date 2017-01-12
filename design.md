@@ -19,14 +19,14 @@
 	1.	Review with client 
 	1.	Infrastructure
 1.	Decisions & Documentation
-1.	Attribute Driven Design 3.0
-1.	Quality Attributes
-1.	Tactics 
-1.	Design decision documentation 
-1.	UML
-1.	 Technologies
-1.	Diagraming / documentation
-1.	Testing Strategies
-1.	Trade offs 
-1.	Design Communication
-1.	Consider non functional requirements
+	1.	Attribute Driven Design 3.0
+	1.	Quality Attributes
+	1.	Tactics 
+	1.	Design decision documentation 
+	1.	UML
+	1.	Technologies
+	1.	Diagraming / documentation
+	1.	Testing Strategies
+	1.	Trade offs 
+	1.	Design Communication
+	1.	Consider non functional requirements
